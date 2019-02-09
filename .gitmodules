@@ -11,3 +11,9 @@
 	path = lib/markdown-it-emoji
 	url = https://github.com/markdown-it/markdown-it-emoji.git
 	branch = master
+[submodule "lib/markdown-it-sub"]
+	path = lib/markdown-it-sub
+	url = https://github.com/markdown-it/markdown-it-sub.git
+[submodule "lib/markdown-it-sup"]
+	path = lib/markdown-it-sup
+	url = https://github.com/markdown-it/markdown-it-sup.git

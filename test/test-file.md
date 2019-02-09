@@ -23,6 +23,8 @@ Unicode: âêîôûŵŷ äëïöüẅÿ àèìòùẁỳ áéíóúẃý   Во�
 
 ~~strikethrough~~
 
+H~2~O and x^2^
+
 multiple_underscores_in_text_without_parsing
 
 Let's try some :slightly_smiling_face: emoji :-) for your viewing :joy: pleasure.

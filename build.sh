@@ -9,6 +9,8 @@ for f in LICENSE \
 	lib/markdown-it/dist/markdown-it.min.js \
 	lib/markdown-it-checkbox/dist/markdown-it-checkbox.min.js \
 	lib/markdown-it-emoji/dist/markdown-it-emoji.min.js \
+	lib/markdown-it-sub/dist/markdown-it-sub.min.js \
+	lib/markdown-it-sup/dist/markdown-it-sup.min.js \
 	lib/sss/sss.css \
 	lib/sss/sss.print.css
 do
